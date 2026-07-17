@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="figures/portada_sismos.png"
+       alt="Análisis comparativo de la actividad sísmica entre Chile Central y México–Centroamérica"
+       width="100%">
+</p>
+
+**Nota:** La portada corresponde a una composición visual del proyecto. Los resultados estadísticos reproducibles se presentan en las figuras, scripts e informes incluidos en este repositorio.
+
+# Análisis comparativo de la sismicidad  
+## Chile Central vs. México–Centroamérica
+
+Comparación estadística de la actividad sísmica registrada entre 2000 y 2025, utilizando datos del **USGS Earthquake Catalog** y herramientas de análisis desarrolladas en **R**.
+
+
 ## Autoría y contribuciones
 
 Este proyecto fue desarrollado en equipo durante la asignatura Taller I de Ingeniería Estadística de la Universidad de Santiago de Chile.
