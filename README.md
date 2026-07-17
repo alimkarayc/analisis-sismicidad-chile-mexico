@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/portada_sismos.png"
+  <img src="figures/portada_sismos_T1.png"
        alt="Análisis comparativo de la actividad sísmica entre Chile Central y México–Centroamérica"
        width="100%">
 </p>
