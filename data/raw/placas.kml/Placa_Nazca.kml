@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Placa_Nazca</name>
+	<gx:CascadingStyle kml:id="__managed_style_0F42F19700406991250E_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F42F19700406991250E_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F42F19700406991250E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0F42F19700406991250E_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F42F19700406991250E_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03563B2CE34069912497">
+		<name>Placa_Nazca</name>
+		<LookAt>
+			<longitude>-69.60652318134372</longitude>
+			<latitude>-23.46082452754694</latitude>
+			<altitude>2563.71103067371</altitude>
+			<heading>11.96829481823135</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>2690324.17688638</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F42F19700406991250E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-93.67982764936419,-9.861078894587381,0 -106.1620013889459,-28.72887865925525,0 -75.09223091692969,-39.39099405754419,0 -74.85283183711056,-38.57689264799102,0 -74.63985688654593,-38.15405835240313,0 -74.58367323313033,-37.57838577173236,0 -74.45274857943488,-36.82987322147403,0 -74.2714583825672,-36.15524501742389,0 -73.87407740280702,-35.5757840826026,0 -73.65283355002849,-34.83282351590609,0 -72.92037580137531,-33.83662963719044,0 -72.87778044378237,-33.22744161304977,0 -72.88880318883876,-32.80901667938534,0 -72.74247031650707,-32.26189682435022,0 -72.60523108649812,-30.71961526282416,0 -72.54650863633178,-29.52017327145417,0 -72.44976048331026,-28.9763725370969,0 -71.95496970887525,-27.81569560776195,0 -71.6211858134738,-25.77367580824525,0 -71.48440022059182,-24.56576632673126,0 -71.33701699925587,-23.06398439312409,0 -71.2108277483276,-21.26021399449772,0 -93.67982764936419,-9.861078894587381,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

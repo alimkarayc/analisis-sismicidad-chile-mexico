@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Fosa_Atacama</name>
+	<gx:CascadingStyle kml:id="__managed_style_0CCDDDAC76406A2FAA64_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0CCDDDAC76406A2FAA64_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CCDDDAC76406A2FAA64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0CCDDDAC76406A2FAA64_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0CCDDDAC76406A2FAA64_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C59278D90406A2FAA4F">
+		<name>Fosa_Atacama</name>
+		<LookAt>
+			<longitude>-75.98149403385172</longitude>
+			<latitude>-40.87484647465611</latitude>
+			<altitude>729.7796769590444</altitude>
+			<heading>19.88289292605494</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1464269.334382117</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CCDDDAC76406A2FAA64</styleUrl>
+		<LineString>
+			<coordinates>
+				-71.48882947940707,-25.35150448055717,0 -71.90482140254326,-27.48069659711348,0 -72.00682455910511,-27.88478945506118,0 -72.4379011446114,-28.91651240259786,0 -72.58448872525692,-29.69731525299598,0 -72.60982993005466,-30.92256129308442,0 -72.73824063733795,-32.29946185749483,0 -72.88496730581576,-32.71888135197204,0 -72.87064088062026,-33.40758831304544,0 -72.93936868171951,-33.85139280310132,0 -73.64473167713244,-34.86509729515388,0 -73.89438235081934,-35.57851864222441,0 -74.20505644783111,-36.10339712845965,0 -74.43747815088322,-36.69007980019397,0 -74.58292796154568,-37.61209805348349,0 -74.66168746816857,-38.15506211619481,0 -74.92977113565037,-38.86837051500493,0 -75.13472067568421,-39.54024286655599,0 -75.14667067138275,-39.88945467767393,0 -75.19311501784934,-40.35558992919287,0 -75.19531780594225,-40.89279344343704,0 -75.39509635236881,-41.3896709832236,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

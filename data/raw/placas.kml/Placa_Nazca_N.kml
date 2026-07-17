@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Placa_Nazca_N</name>
+	<gx:CascadingStyle kml:id="__managed_style_0DA8B363BD406971AFA0_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0DA8B363BD406971AFA0_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DA8B363BD406971AFA0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0DA8B363BD406971AFA0_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0DA8B363BD406971AFA0_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F69CB8E24406971AF68">
+		<name>Placa_Nazca_N</name>
+		<LookAt>
+			<longitude>-83.6117552200099</longitude>
+			<latitude>5.910771453872668</latitude>
+			<altitude>-2404.023040804702</altitude>
+			<heading>13.39074744538945</heading>
+			<tilt>0.6756184298095899</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>4515671.370044947</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0DA8B363BD406971AFA0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-82.52354304602656,3.088596784513836,0 -83.19713437948896,3.250076676354542,0 -84.37860946212196,3.006509654356021,0 -84.62032849164839,1.671427185848906,0 -85.38173428528052,1.622490885331615,0 -85.36456732152843,0.7472323030725959,0 -81.18310804830938,-0.1949216994999242,0 -80.30355818134299,1.579984550614337,0 -79.08286510309941,2.857411521658599,0 -78.63831826507094,3.450045024767508,0 -78.20531844864205,4.46535753787746,0 -78.05213234676638,4.963823784170735,0 -77.96911039249055,5.512713520735246,0 -77.99067108430599,5.968087399145118,0 -78.24413925745529,6.510764712045103,0 -78.43519871916655,6.7947474960034,0 -78.51646026520915,6.911484134483841,0 -78.66023381650319,7.3314396213561,0 -79.22125797367899,7.320981680831236,0 -80.05068390655359,7.107225338114784,0 -80.28252472959851,7.13969918845351,0 -80.69567631469799,7.427461825314799,0 -81.20832684864631,7.151108791795621,0 -81.57532179996704,7.024302896263382,0 -81.73918393623674,7.078510039805956,0 -81.9465755338806,6.951710196887194,0 -82.08831837309309,6.962927739812063,0 -82.12352085013318,7.019071156653073,0 -82.20908827351995,7.046480843875571,0 -82.31985681237747,7.251802539162402,0 -82.7165068050286,7.297121630706036,0 -82.52354304602656,3.088596784513836,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

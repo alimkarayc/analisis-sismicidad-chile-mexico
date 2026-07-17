@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Norte_Caribe</name>
+	<gx:CascadingStyle kml:id="__managed_style_041EE6CD0B406A2F52D0_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_041EE6CD0B406A2F52D0_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_041EE6CD0B406A2F52D0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_041EE6CD0B406A2F52D0_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_041EE6CD0B406A2F52D0_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0EA7D7E8D7406A2F52B8">
+		<name>Norte_Caribe</name>
+		<LookAt>
+			<longitude>-50.68653498076521</longitude>
+			<latitude>19.6175419662587</latitude>
+			<altitude>-2344.781945687464</altitude>
+			<heading>4.694671678632359</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>8195509.799358845</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041EE6CD0B406A2F52D0</styleUrl>
+		<LineString>
+			<coordinates>
+				-94.45956819165563,14.42357118494982,0 -89.71714868530697,14.90577200156946,0 -89.06391098619613,15.17145325071444,0 -88.27210601463581,15.60516023948307,0 -86.76615090935465,16.58825607006267,0 -84.24608788184301,17.28365252618863,0 -83.41282197819415,17.5401562983336,0 -81.63504159315445,17.75870287186829,0 -81.73272571109013,18.84367724603331,0 -75.51067973841877,20.00381980864095,0 -74.63058395534685,20.04895056070391,0 -72.80263166821238,20.33194193583338,0 -71.36404204915118,20.18035086926758,0 -70.01375037048085,19.78015724936963,0 -68.76997190020613,19.62591049760768,0 -66.41098956241568,19.8253230192814,0 -63.37813786535536,19.6888365419775,0 -62.3350308882641,19.38971504757758,0 -61.29498407670413,19.04697281747724,0 -59.88606359932259,19.43089786849812,0 -57.44398537236506,19.05558157933476,0 -55.83149095245645,18.02741260428536,0 -54.86751206078325,17.29344523038257,0 -52.44363283882908,16.53751463845115,0 -50.43282914919661,15.85284567462824,0 -48.76245411603525,15.99704562279701,0 -47.6207901497372,15.94635287357854,0 -46.76807269236508,15.50425811044267,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

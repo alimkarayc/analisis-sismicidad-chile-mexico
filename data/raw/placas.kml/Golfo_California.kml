@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Golfo_California</name>
+	<gx:CascadingStyle kml:id="__managed_style_01547BEBB3406A2ED8C8_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_01547BEBB3406A2ED8C8_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01547BEBB3406A2ED8C8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_01547BEBB3406A2ED8C8_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01547BEBB3406A2ED8C8_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0766603A32406A2ED8B0">
+		<name>Golfo_California</name>
+		<LookAt>
+			<longitude>-108.1038318147254</longitude>
+			<latitude>22.57106448478875</latitude>
+			<altitude>-9.761432285219538</altitude>
+			<heading>4.6946716787969</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>495234.3192379922</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01547BEBB3406A2ED8C8</styleUrl>
+		<LineString>
+			<coordinates>
+				-113.3410575774327,28.91690349443716,0 -112.539614934293,28.29648961753434,0 -111.3890316558287,27.51503450661117,0 -111.558788967929,27.22328282477118,0 -111.3750782898977,27.10475993008482,0 -111.5316430509555,26.91619164800858,0 -111.1363279583014,26.67703880194964,0 -110.6893513327742,26.36148185016501,0 -110.7747005530726,26.21501983862785,0 -110.4120673128273,25.95427336629611,0 -110.0875795036702,25.74229557169612,0 -109.8111415370783,25.55835047519408,0 -109.9994074170203,25.33584124573233,0 -109.6239390398848,25.03536530975488,0 -109.0631485066736,24.65789419678858,0 -109.2666722535504,24.38864118730909,0 -108.8868813361898,24.05376725354593,0 -108.5959625992067,23.79944984329095,0 -108.3621383104367,23.61482727683408,0 -108.655578589925,23.24253255551325,0 -108.3867568784688,23.07536815705525,0 -108.0030704665993,22.98715666767695,0 -108.2384342715631,22.70962392264808,0 -108.5277992866548,22.27282729602777,0 -108.5128485000069,22.19573047509769,0 -108.6754404637664,21.9631927226829,0 -108.5808972565724,21.90826370781057,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
